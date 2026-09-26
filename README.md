@@ -15,10 +15,10 @@ This repository contains two files:
 
 ## Links for few databases:
 
-Materials project: https://next-gen.materialsproject.org/
-Materials Springer: https://materials.springer.com/
-Open Quantum Materials Database: https://www.oqmd.org/
-NOMAD: https://nomad-lab.eu/nomad-lab/
-ICSD: https://icsd.products.fiz-karlsruhe.de/en
-Matweb: https://www.matweb.com/
-Tattvasar Electrochemical Database: https://www.matweb.com/
+1. Materials project: https://next-gen.materialsproject.org/
+2. Materials Springer: https://materials.springer.com/
+3. Open Quantum Materials Database: https://www.oqmd.org/
+4. NOMAD: https://nomad-lab.eu/nomad-lab/
+5. ICSD: https://icsd.products.fiz-karlsruhe.de/en
+6. Matweb: https://www.matweb.com/
+7. Tattvasar Electrochemical Database: https://www.matweb.com/
